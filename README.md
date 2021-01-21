@@ -1,1 +1,1 @@
-![Image of Near](https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/04/Near.jpg?q=50&fit=crop&w=740&h=370)
+![Image of Near](https://images6.fanpop.com/image/photos/39100000/T9NGtHX-near-death-note-wallpaper-155265867-39140239-1024-768.jpg)
