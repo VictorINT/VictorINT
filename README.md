@@ -1,15 +1,4 @@
 <!-- # Yoo hello there, here is my social media -->
-
-<br>
-
-#
-<a href="https://www.reddit.com/user/Which_Drawer1814">
-  <img height="50" align="center" src="https://img.shields.io/badge/Reddit-D14836?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-<a href="https://open.spotify.com/user/31orkwkrbkebcxx2osw6wpio3n3m">
-  <img height="50" align="center" src="https://img.shields.io/badge/Spotify-168A29?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
 #
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
