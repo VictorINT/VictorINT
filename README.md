@@ -4,9 +4,7 @@
 <a href="#">
   <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorINT&theme=react&layout=compact" />
 </a>
-<a href="#">
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=VictorINT&theme=react&show_icons=true" />
-</a>
+
 
 #
 
