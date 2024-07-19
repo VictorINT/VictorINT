@@ -1,11 +1,26 @@
-<!-- # Yoo hello there, here is my social media -->
-#
-<!--
-<a href="#">
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorINT&theme=react&layout=compact" />
-</a>
 
+# Hi there 👋
 
-#
--->
-<!-- <img height="462" align="center" src="https://64.media.tumblr.com/1859fb917e98ff5f7b1d983d6b2d705a/tumblr_ony148R8fO1s1pv1uo2_500.gifv" /> -->
+I'm Victor, a passionate developer with a focus on embedded systems, robotics, software engineering and since in general. I love learning.
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: C/C++, Java
+- **Frameworks/Libraries**: Arduino, Flutter
+- **Tools**: Git, VS Code, Linux
+
+## 🌱 Currently Learning
+
+- low level C
+- operating systems
+- the basics of machine learning with python and Godot engine
+- Spring framework
+
+## 🔭 Working On
+
+- [MainLib](https://github.com/VictorINT/MainLib) - A general library for robotics that includes low level control (`DCMotor.hpp`, `Encoder.hpp` etc), but also algorithms like `PID.hpp` and others).
+
+## 📫 How to Reach Me
+
+- Email: [victor.s.florescu@gmail.com](mailto:victor.s.florescu@gmail.com)
+- LinkedIn: [Victor Florescu](https://www.linkedin.com/in/victorflorescu-a94261217/)
