@@ -7,7 +7,7 @@ I'm Victor, a passionate developer with a focus on embedded systems, robotics, s
 
 - **Languages**: C/C++, Java
 - **Frameworks/Libraries**: Arduino, Flutter
-- **Tools**: Git, VS Code, Linux
+- **Tools**: Git, Linux
 
 ## 🌱 Currently Learning
 
