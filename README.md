@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I'm Victor, a passionate developer with a focus on embedded systems, robotics, software engineering and since in general. I love learning.
+I'm Victor, a passionate developer focusing on embedded systems, robotics, software engineering, etc. I love learning. Feel free to contribute to any projects.
 
 ## 🛠️ Technologies & Tools
 
@@ -11,10 +11,9 @@ I'm Victor, a passionate developer with a focus on embedded systems, robotics, s
 
 ## 🌱 Currently Learning
 
-- low level C
+- low-level C
 - operating systems
-- the basics of machine learning with python and Godot engine
-- Spring framework
+- Spring Framework
 
 ## 🔭 Working On
 
