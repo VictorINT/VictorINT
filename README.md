@@ -6,7 +6,7 @@ I'm Victor, a passionate developer focusing on embedded systems, robotics, softw
 ## 🛠️ Technologies & Tools
 
 - **Languages**: C/C++, Java
-- **Frameworks/Libraries**: Arduino, Flutter
+- **Frameworks/Libraries**: ARM/Stm32, Arduino, Spring
 - **Tools**: Git, Linux
 
 ## 🌱 Currently Learning
@@ -17,7 +17,7 @@ I'm Victor, a passionate developer focusing on embedded systems, robotics, softw
 
 ## 🔭 Working On
 
-- [MainLib](https://github.com/VictorINT/MainLib) - A general library for robotics that includes low level control (`DCMotor.hpp`, `Encoder.hpp` etc), but also algorithms like `PID.hpp` and others).
+- [Passive house](https://github.com/VictorINT/Passive-Home) - A full stack project of a smart & automated house.
 
 ## 📫 How to Reach Me
 
