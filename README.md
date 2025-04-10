@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I'm Victor, a passionate developer focusing on embedded systems, robotics, software engineering, etc. I love learning. Feel free to contribute to any projects.
+I'm Victor, a passionate developer focusing on embedded systems, robotics, software engineering, etc. I love learning.
 
 ## 🛠️ Technologies & Tools
 
